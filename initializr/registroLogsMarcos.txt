@@ -1,0 +1,25 @@
+commit 9ec3ba61d60e4b8c848278e34816a557cb453083
+Author: Marcos Piedrahita <marcos.piedrahita.tellez@iesjulianmarias.es>
+Date:   Sat Feb 3 16:17:13 2024 +0000
+
+    Agregado nombre marcos a fichero e index
+
+diff --git a/initializr/README.md b/initializr/README.md
+new file mode 100644
+index 0000000..dcc6850
+--- /dev/null
++++ b/initializr/README.md
+@@ -0,0 +1 @@
++Mi nombre: Marcos Piedrahita Tellez
+diff --git a/initializr/index.html b/initializr/index.html
+index 745ec46..39caef8 100644
+--- a/initializr/index.html
++++ b/initializr/index.html
+@@ -17,6 +17,7 @@
+         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+     </head>
+     <body>
++	<h1>Marcos Piedrahita Tellez</h1>
+         <!--[if lt IE 8]>
+             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+         <![endif]-->
